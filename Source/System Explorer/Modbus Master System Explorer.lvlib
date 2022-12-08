@@ -192,5 +192,8 @@
 			</Item>
 			<Item Name="ActionVIOnCompile.vi" Type="VI" URL="../SubVIs/ActionVIOnCompile.vi"/>
 		</Item>
+		<Item Name="Actions" Type="Folder">
+			<Item Name="Enable Disable.vi" Type="VI" URL="../Enable Disable.vi"/>
+		</Item>
 	</Item>
 </Library>
